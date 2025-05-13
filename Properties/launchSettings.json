@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Sel-BOT": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
